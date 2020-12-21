@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-reactjs/static/css/main.915610ca.chunk.css",
+    "main.js": "/tic-tac-toe-reactjs/static/js/main.6f627ab2.chunk.js",
+    "main.js.map": "/tic-tac-toe-reactjs/static/js/main.6f627ab2.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-reactjs/static/js/runtime-main.3f19b75e.js",
+    "runtime-main.js.map": "/tic-tac-toe-reactjs/static/js/runtime-main.3f19b75e.js.map",
+    "static/js/2.107752ff.chunk.js": "/tic-tac-toe-reactjs/static/js/2.107752ff.chunk.js",
+    "static/js/2.107752ff.chunk.js.map": "/tic-tac-toe-reactjs/static/js/2.107752ff.chunk.js.map",
+    "index.html": "/tic-tac-toe-reactjs/index.html",
+    "static/css/main.915610ca.chunk.css.map": "/tic-tac-toe-reactjs/static/css/main.915610ca.chunk.css.map",
+    "static/js/2.107752ff.chunk.js.LICENSE.txt": "/tic-tac-toe-reactjs/static/js/2.107752ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tic-tac-toe-reactjs/static/media/chalk-board-bg.2816330d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f19b75e.js",
+    "static/js/2.107752ff.chunk.js",
+    "static/css/main.915610ca.chunk.css",
+    "static/js/main.6f627ab2.chunk.js"
+  ]
+}
