@@ -1,7 +1,7 @@
 import './App.css';
 import Square from './Square';
 import { useState } from 'react';
-import background from './chalk-board-bg.png';
+
 function App() {
 	const [turn, setTurn] = useState('X');
 	const [winner, setWinner] = useState(undefined);

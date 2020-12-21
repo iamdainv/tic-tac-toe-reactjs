@@ -1,9 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const Square = ({ valueSquare, handleChangeValue, index, positionWin }) => {
-	const [value, setValue] = useState('');
-	console.log(positionWin, index);
-
 	return (
 		<div
 			className='square'
